@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Toss</string>
+    <string name="action_settings">Settings</string>
+    <integer name="depreciation">80</integer>
+
+    <string name="title_activity_toss_ground">toss_ground</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
